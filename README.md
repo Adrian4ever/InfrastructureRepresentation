@@ -43,7 +43,7 @@ Proiectul a fost creat in:
 * DRF: 3.12
 	
 ## imagine arhitecturala
-![Screenshot](wbs.jpg)
+![Screenshot](wbs.png)
  
 
 
