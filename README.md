@@ -1,33 +1,6 @@
 # InfrastructureRepresentation
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Adrian4ever 
-BraileanuGabriel
-/
-InfrastructureRep
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-InfrastructureRep/README.md
-@BraileanuGabriel
-BraileanuGabriel Update README.md
-Latest commit 4b53cb0 9 minutes ago
- History
- 1 contributor
-50 lines (40 sloc)  961 Bytes
-  
-# Braileanu Gabriel P-1842
+
+# Ursu Adrian P-1842
 
 ## Cuprins
 * [Echipa](#echipa)
@@ -44,7 +17,9 @@ Latest commit 4b53cb0 9 minutes ago
 * Mr Tester (+1 person) - Testing Team
 
 ## Informatie generala
-Acest proiect reprezinta o simpla aplicatie care va fi utilizata de institutiile de invatamant
+Proiectul dat este un sistem de management pentru tranzactii bancare, care eficientizeaza, reduce costuri si modernizeaza sistemul bancar.
+Proiectul foloseste cele mai noi tehnologii si abilitati contemporane de programare.
+Bring development to the next level.
 	
 ## Resurse
 * Umane - 10 oameni
@@ -68,7 +43,7 @@ Proiectul a fost creat in:
 * DRF: 3.12
 	
 ## imagine arhitecturala
-![Screenshot](grantt.jpg)
+![Screenshot](wbs.jpg)
  
 
 
